@@ -1,2 +1,3 @@
 # Competitive_Coding
-Interesting Interview Questions I have come across 
+Interesting Interview Questions.
+Must Have Concepts.
