@@ -5,7 +5,7 @@
  * 2. At each node determine the maximum element at left is less than that and the minimum at right side of the tree is greater that that node.
  */
 /*
-	Method 1: 
+Method 1: 
     class Node {
         int data;
         Node left;
