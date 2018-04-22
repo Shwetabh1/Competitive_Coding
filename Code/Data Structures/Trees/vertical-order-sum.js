@@ -1,6 +1,7 @@
 /*
  * Find the vertical order traversal of a given tree.
- * Can be solved using linkedHashMap easily.
+ * Travel the tree in level order and maintain an array for every level.
+ * calculate the sum
  */
 let arr = [];
 
@@ -15,7 +16,8 @@ function verticalOrderTraversal(root, verticalLevel) {
  }
 
 function calculateVerticalOrderTraversal() {
-	// let keys = Object.keys(arr);
+	let keys = Object.keys(arr); //the keys might not be in increasing or decreasing order.
+	keys.sort(function(a,b){return a-b}); // the default sort function in javascript is for strings.
 	for (let i=0; i<keys.length; i++) {
 		let sum = 0;
 		arr[key[i]].forEach(function(val, index){
