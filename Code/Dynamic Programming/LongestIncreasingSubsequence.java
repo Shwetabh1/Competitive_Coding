@@ -1,3 +1,5 @@
+//A subsequence is a sequence that can be derived from another sequence, 
+//by deleting some elements without changing the order of the remaining elements.
 import java.util.Arrays;
 
 public class LongestIncreasingSubsequence {
