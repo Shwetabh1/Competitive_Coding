@@ -16,11 +16,11 @@ Method 1:
    public ArrayList<Integer> al = new ArrayList<Integer>(); 
 
    	void buildArr(Node root) {
-       if (root != null) {
+        if (root != null) {
            buildArr(root.left);
            al.add(root.data);
            buildArr(root.right);
-       }
+        }
    	}
    	
     boolean checkBST(Node root) {
@@ -32,3 +32,6 @@ Method 1:
         }
         return true;
     }
+
+/* Another approach is recursive */
+

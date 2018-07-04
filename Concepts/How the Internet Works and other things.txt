@@ -1,0 +1,10 @@
+How the Internet works?/ What happend when we press enter on the browser?
+
+Protocols
+
+Stateless vs Stateful Protocol
+In computing, a stateless protocol is a communications protocol in which no information is retained by either sender or receiver, meaning that they are agnostic of the state of one another. The sender transmits a packet to the receiver and does not expect an acknowledgment of receipt. A UDP connectionless session is a stateless connection. HTTP is the other example.
+
+Stateful Protocol
+ 
+Why HTTP is said to be a stateless Protocol?

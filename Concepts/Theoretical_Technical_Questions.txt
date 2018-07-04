@@ -1,0 +1,12 @@
+Questions related to Projects you have developed.
+If you are architect what reviews will u give?
+Load balancing.
+What do u use from sdlc in your daily life in you current organisation
+What do people do, when on site-
+Why this company?
+Why do you want to change so early?
+What is the best technology you have learned in current organisation?
+Discussion on that technology.
+Project on that technology.
+Hashmaps. How hashmap work.
+Contract between hashcode and equals.

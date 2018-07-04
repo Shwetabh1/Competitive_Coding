@@ -35,9 +35,11 @@ function(root) {
         }
     }
 
-    var result = [];
-    for (var i = minLine; i <= maxLine; i++) {
-        result.push(lines[i]);
+    // print the first node of each level that is visible 
+    for (var i=0; i>=minLine; i--) {
+    	console.log(lines[i][0]);
     }
-    return result;
+    for (var i=1; i<=maxLine; i++) {
+    	console.log(lines[i][0]);
+    }
 }
