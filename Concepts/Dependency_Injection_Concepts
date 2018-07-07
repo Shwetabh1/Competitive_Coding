@@ -1,6 +1,6 @@
 Dependency Injection follows dependency Inversion Principle.
 
- Dependency Injection a 25 dollar term for a 5-cent concept. It is nothing but giving an object its instance variables. 
+Dependency Injection a 25 dollar term for a 5-cent concept. It is nothing but giving an object its instance variables. 
 
 -Real Life Example.
 
