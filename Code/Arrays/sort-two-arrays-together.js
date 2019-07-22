@@ -3,9 +3,18 @@
  * If length at two indices are same the sort them based on area of the rectangle.
  */
 
-let length = [100,20,30,10,15,10,100,105];
-let breadth = [1,2,3,4,,5,6,7,8];
+let length = [100,20,30,10,15,15,10,100,105];
+let breadth = [1,2,3,4,90,5,6,7,8,87];
 let area = [];
+
+for (var i=0; i<length.length; i++) {
+    area.push({
+        len: length[i],
+        bre: breadth[i]
+    })
+};
+
+
 //create object
 area.sort(function(a,b){
     if (a.len > b.len) {
