@@ -1,4 +1,4 @@
-# Competitive_Coding
+# Interview-Stop
 
 This repository hosts the following:
 
