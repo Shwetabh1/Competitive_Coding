@@ -1,0 +1,1 @@
+# Explain 5 different attacks in detail and ways of countering it.

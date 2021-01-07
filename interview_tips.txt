@@ -1,0 +1,19 @@
+1. Do as much as mock interviews as possible. [use interview bit or other websites]
+
+1.1 When giving interview do not move to the next problem unless you have all pointers with you.
+Requirements: Understand.
+Edge cases: Discuss the cases.
+Brute force approach (Discussion + Complexity)
+Optimised approach (Discussion + Complexity) …X times
+----Once you have it then only move here:
+Coding
+Dry Run
+
+2. For each project listed in my resume what was my
+
+Challanges
+Mistakes/Failures
+Enjoyed
+Leadership
+Conflicts
+What you do differerently
