@@ -1,4 +1,4 @@
-How the Internet works? What happenw when we press enter on the browser?
+How the Internet works? What happens when we press enter on the browser?
 
 1. You type maps.google.com(Uniform Resource Locator) into the address bar of your browser and press enter.
 2. Every URL has a unique IP address associated with it. The mapping is stored in Name Servers and this procedure is called Domain Name System.

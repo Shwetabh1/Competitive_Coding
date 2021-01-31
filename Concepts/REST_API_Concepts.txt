@@ -15,3 +15,5 @@ Stateful App is one that stores information about what has happened or changed s
 
 Stateless gives same response to the same request function everytime.
 
+API Design interview questions - check dev.to saved posts.
+
