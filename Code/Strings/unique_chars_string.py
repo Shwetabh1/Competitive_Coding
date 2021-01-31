@@ -21,3 +21,15 @@ print(find_unique_string('ABCDEFGHIJKLMNOPQRSTUVWXYZ'))
 print(find_unique_string(''))
 print(find_unique_string('AA'))
 print(find_unique_string('X'))
+
+# different for loops
+
+'''
+for index, val in enumerate(str):
+    print(index, val)
+    
+OR
+
+for index in range(len(str)):
+    print(str[index])
+'''
