@@ -17,3 +17,5 @@ Enjoyed
 Leadership
 Conflicts
 What you do differerently
+
+3. A detailed discussion about the projects I have worked on and technologies and design patterns I have used.

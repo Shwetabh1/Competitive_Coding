@@ -1,7 +1,23 @@
 //TO DO
-Take into consideration: LLD and HLD
+
+Before diving in they warm up by discussing the current designs.
+
+(Discuss current arch, what would you improve in it.)
+
+Explain a situation where you had to go deep to resolve an issue.
+
+Explain few design patterns that you have used till date.
+
+Elaborate on the software designs that you have created in you work.
+
+Explain 5 security vulnerabilities in detail. 
+
+Take into consideration: LLD and HLD.
+
 
 Design Netflix
 Design Tinder
 Design Whatsapp
 Design Large Scale Distributed System
+Design a file sharing system with Version control of files. (Dropbox)
+Design a Chess Game. 

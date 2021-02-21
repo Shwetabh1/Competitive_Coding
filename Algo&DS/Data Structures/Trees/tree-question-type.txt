@@ -25,7 +25,7 @@ Print cousins of given node in a binary tree
 Check if given binary tree is a sum tree or not
 Combinations of words formed by replacing given numbers with corresponding alphabets
 Determine if given binary tree is a subtree of another binary tree or not
-Find diameter of a binary tree
+Find diameter of a binary tree.
 Check if given binary Tree has symmetric structure or not
 Convert binary tree to its mirror
 Check if binary tree can be converted to another by doing any no. of swaps of left & right child
@@ -81,3 +81,4 @@ Convert a Binary Tree into a Doubly Linked List in Spiral Order
 Check if a binary tree is a min-heap or not
 Determine if a binary tree satisfy the height-balanced property of red–black tree
 Depth first search (DFS) vs Breadth first search (BFS)
+Given an imbalanced BST, return the balanced BST.
