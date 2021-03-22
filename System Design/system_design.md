@@ -31,6 +31,7 @@ II SYSTEM DESIGN QUESTIONS.
         Design clases,interfaces.
     10. How does HashMap works?
     11. Question related to amazon web service and its mission critical type logs managment.
+    12. Design an e-wallet.
 
 III Important Links To Learn
     1. https://leetcode.com/discuss/general-discussion/1105898/System-Design%3A-Introduction-to-Distributed-Systems-or-Designing-a-highly-available-system
