@@ -2,7 +2,7 @@ Questions related to Projects you have developed.
 
 1. If you are architect what reviews will u give?
 2. Load balancing.
-3. What do u use from sdlc in your daily life in you current organisation?
+3. What do you use from sdlc in your daily life in you current organisation?
 4. What do people do, when on site-
 5. Why this company?
 6. Why do you want to change so early?

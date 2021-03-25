@@ -1,5 +1,5 @@
-Below two could be first/warmup question
-1. Brief Introduction.
+Below two could be first/warmup question:
+1. Brief Introduction about yourself.
 2. Why Changing Company? "Tell me why you applied" or "what makes your qualified?" or "walk through your experience".
 
 
