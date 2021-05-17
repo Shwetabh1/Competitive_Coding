@@ -1,3 +1,26 @@
-//TODO 
+-> The best way to solve a large number of questions is through mapping it into an already solved questions.
+-> Ensure you don't memorise soliutions.
+-> Give your time to understand one algorithm.
+   Many of the questions can then be mapped to it and you will be able to easily solve it.
+-> For Bottom Up Approach we need to find a equation on which we can build the table. And base cases for it should be readty.
 
-Add tips for approaching and solving such questions.
+
+YOU NEED TO MAP THE PROBLEM INTO AN ALREADY SOLVED QUESTION.
+
+1. If the given input is sorted (array, list, or matrix), we will use a variation of Binary Search or a Two Pointers strategy.
+2. If we’re dealing with top/maximum/minimum/closest k elements among n elements, we will use a Heap.
+3. If we need to try all combinations (or permutations) of the input, we can either use recursive Backtracking or iterative Breadth-First Search.
+4. Most of the questions related to trees and graphs can be solved either through breadth-first or depth first search.
+5. Every recursive solution can be converted into an iterative solution using stack.
+6. If for a problem there exists a brute force solution in O(n2) then there must exist a solution with map or set with O(n) time and O(1) space complexity. With Sorting O(NlogN) time and O(1) space complexity.
+7. If the problem is asking for optimization, maxmize or minimize it is dynamoic programming.
+8. If we need to find some common substring among a set of strings we need to use trie or hashmap.
+9. If we need to search among a bunch of strings, trie will be the best data structure.
+10. If the problem involves linkedlist and we can't use extra space the fast and slow pointer is the way to go.
+
+For Dynamic Programming Questions, you need to then map it into solution category.
+1. 
+2.
+3.
+4.
+5.

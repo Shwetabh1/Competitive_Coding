@@ -39,6 +39,9 @@ III Important Links To Learn
     2. https://leetcode.com/discuss/general-discussion/1105898/System-Design%3A-Introduction-to-Distributed-Systems-or-Designing-a-highly-available-system
     3. https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn
     4. https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox
+    5. https://github.com/binhnguyennus/awesome-scalability [COVERS EVERYTHING]
+    6. https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft  [All System Design Questions that have been asked in Major Companies]
+    7. https://leetcode.com/discuss/career/229177/My-System-Design-Template [System Design Template]
 
 IV Rounds
    1. LLD
